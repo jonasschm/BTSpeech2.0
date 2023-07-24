@@ -1,5 +1,5 @@
 # BTSpeech2.0
-R script to extract textual data from structured parliamentary protocol files (XML) provided by the German Bundestag into an R data frame. Applicable to all protocols from the 19th legislative period onwards.
+R script to extract textual data from **structured** parliamentary protocol files (XML) provided by the German Bundestag into an R data frame. Applicable to all protocols from the 19th legislative period onwards.
 
 Unfortunately, the protocols provided by the [Bundestag Open Data Service](https://www.bundestag.de/services/opendata "Bundestag Open Data") are only available as structured XMLs when downloaded individually instead of the entire zip files. Therefore, in addition to the R code, I also provide a file with all protocols since the start of the 19th legislative period until 07.07.2023 (20th legislative period). Future protocol files must be added individually to the input XML folder.
 
